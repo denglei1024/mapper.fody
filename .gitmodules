@@ -1,6 +1,6 @@
 [submodule "projects/observability/asp.net-core-otel-demo"]
 	path = projects/observability/asp.net-core-otel-demo
 	url = git@github.com:denglei1024/asp.net-core-otel-demo.git
-[submodule "notes"]
-	path = notes
+[submodule "notes-vault"]
+	path = notes-vault
 	url = git@gitee.com:denglei1024/my-notes.git
